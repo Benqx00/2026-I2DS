@@ -1,0 +1,15 @@
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio1\obj\Debug\net10.0\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio1\obj\Debug\net10.0\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio1\obj\Debug\net10.0\Exercicio1.AssemblyInfo.cs
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio1\obj\Debug\net10.0\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio1\obj\Debug\net10.0\Exercicio1.sourcelink.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio1\bin\Debug\net10.0\Exercicio1.exe
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio1\bin\Debug\net10.0\Exercicio1.deps.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio1\bin\Debug\net10.0\Exercicio1.runtimeconfig.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio1\bin\Debug\net10.0\Exercicio1.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio1\bin\Debug\net10.0\Exercicio1.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio1\obj\Debug\net10.0\Exercicio1.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio1\obj\Debug\net10.0\refint\Exercicio1.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio1\obj\Debug\net10.0\Exercicio1.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio1\obj\Debug\net10.0\Exercicio1.genruntimeconfig.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio1\obj\Debug\net10.0\ref\Exercicio1.dll
