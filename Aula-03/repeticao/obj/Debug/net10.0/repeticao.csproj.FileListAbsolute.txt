@@ -1,0 +1,15 @@
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\repeticao\obj\Debug\net10.0\repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\repeticao\obj\Debug\net10.0\repeticao.AssemblyInfoInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\repeticao\obj\Debug\net10.0\repeticao.AssemblyInfo.cs
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\repeticao\obj\Debug\net10.0\repeticao.csproj.CoreCompileInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\repeticao\obj\Debug\net10.0\repeticao.sourcelink.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\repeticao\bin\Debug\net10.0\repeticao.exe
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\repeticao\bin\Debug\net10.0\repeticao.deps.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\repeticao\bin\Debug\net10.0\repeticao.runtimeconfig.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\repeticao\bin\Debug\net10.0\repeticao.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\repeticao\bin\Debug\net10.0\repeticao.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\repeticao\obj\Debug\net10.0\repeticao.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\repeticao\obj\Debug\net10.0\refint\repeticao.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\repeticao\obj\Debug\net10.0\repeticao.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\repeticao\obj\Debug\net10.0\repeticao.genruntimeconfig.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\repeticao\obj\Debug\net10.0\ref\repeticao.dll
