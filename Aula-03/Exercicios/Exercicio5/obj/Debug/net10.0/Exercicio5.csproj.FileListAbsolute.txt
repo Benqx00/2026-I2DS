@@ -1,0 +1,15 @@
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio5\bin\Debug\net10.0\Exercicio5.exe
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio5\bin\Debug\net10.0\Exercicio5.deps.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio5\bin\Debug\net10.0\Exercicio5.runtimeconfig.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio5\bin\Debug\net10.0\Exercicio5.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio5\bin\Debug\net10.0\Exercicio5.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio5\obj\Debug\net10.0\Exercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio5\obj\Debug\net10.0\Exercicio5.AssemblyInfoInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio5\obj\Debug\net10.0\Exercicio5.AssemblyInfo.cs
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio5\obj\Debug\net10.0\Exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio5\obj\Debug\net10.0\Exercicio5.sourcelink.json
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio5\obj\Debug\net10.0\Exercicio5.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio5\obj\Debug\net10.0\refint\Exercicio5.dll
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio5\obj\Debug\net10.0\Exercicio5.pdb
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio5\obj\Debug\net10.0\Exercicio5.genruntimeconfig.cache
+C:\Users\DS1\Desktop\2026-I2DS\Aula-03\Exercicios\Exercicio5\obj\Debug\net10.0\ref\Exercicio5.dll
