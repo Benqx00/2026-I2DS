@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-06\\Listas\\Listas.csproj": {}
+    "C:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-06\\Listas\\Listas.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-06\\Listas\\Listas.csproj": {
+    "C:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-06\\Listas\\Listas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-06\\Listas\\Listas.csproj",
+        "projectUniqueName": "C:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-06\\Listas\\Listas.csproj",
         "projectName": "Listas",
-        "projectPath": "c:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-06\\Listas\\Listas.csproj",
+        "projectPath": "C:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-06\\Listas\\Listas.csproj",
         "packagesPath": "C:\\Users\\DS1\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-06\\Listas\\obj\\",
+        "outputPath": "C:\\Users\\DS1\\Desktop\\2026-I2DS\\Aula-06\\Listas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DS1\\AppData\\Roaming\\NuGet\\NuGet.Config"
